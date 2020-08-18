@@ -6,3 +6,5 @@ def countdown
   x -= 10 
   end
 end
+
+countdown

@@ -1,7 +1,7 @@
 #write your code here
 x = 60
 
-def countdown
+def countdown(x)
   while x > 0 
   puts "#{x} is less than 10"
   x -= 1

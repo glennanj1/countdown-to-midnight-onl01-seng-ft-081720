@@ -1,6 +1,6 @@
 #write your code here
-def countdown_with_sleep
-  sleep(1)
+def countdown_with_sleep(x)
+  sleep(x)
 end
   
   

@@ -1,11 +1,11 @@
 #write your code here
-def countdown_with_sleep
+
   
 def countdown(x)
   while x > 0 
   puts "#{x} SECOND(S)"
   x -= 1
-  "Happy NEW YEAR!"
+"Happy NEW YEAR!"
   end
   
 end

@@ -13,5 +13,5 @@ def countdown(x)
   "HAPPY NEW YEAR!"
 end
 
-
+countdown(10)
 
